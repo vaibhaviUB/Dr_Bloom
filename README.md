@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+# 🌱 Dr. Bloom – Adaptive Learning Interface
 
-## Project info
+## 📌 Overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**Dr. Bloom** is a personalized learning interface designed to support neurodivergent learners, especially students with **dyslexia** and **ADHD**. The project was developed as part of *HackFest 1.0*, a 24-hour National Level Hackathon.
 
-## How can I edit this code?
+The goal of this project is to transform complex educational content into a **simple, adaptive, and neuro-friendly learning experience**.
 
-There are several ways of editing your application.
 
-**Use Lovable**
+## 🚩 Problem Statement
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Traditional digital learning platforms follow a **one-size-fits-all** approach, which creates challenges for neurodivergent learners.
 
-Changes made via Lovable will be committed automatically to this repo.
+Students with **dyslexia (reading difficulties)** and **ADHD (attention and focus challenges)** often struggle due to:
 
-**Use your preferred IDE**
+* Dense blocks of text
+* Distracting UI elements
+* Lack of personalization
+* Rigid learning pace
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+These issues can lead to **cognitive overload and reduced engagement**.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 💡 Solution
 
-Follow these steps:
+Dr. Bloom provides a **personalized learning environment** that adapts content and UI/UX based on individual needs.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Key features include:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+* 🧠 Simplified and structured content
+* 🎯 Focus-friendly interface
+* ⚙️ Adaptive UI/UX customization
+* 📚 Improved readability for dyslexic learners
+* ⏳ Flexible and user-controlled pacing
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🛠️ Tech Stack
 
-**Edit a file directly in GitHub**
+* Frontend: React, Typescript
+* Backend: Supabase
+* Tools: VS Code
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🏆 Hackathon Details
 
-**Use GitHub Codespaces**
+* **Event:** HackFest 1.0
+* **Type:** 24-hour National Level Hackathon
+* **Date:** 13th & 14th March 2026
+* **Location:** Jawaharlal Nehru New College of Engineering, Shivamogga
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🚀 Future Scope
 
-## What technologies are used for this project?
+* AI-based personalized learning paths
+* Voice-assisted learning
+* Real-time attention tracking
+* Multi-language support
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📌 Conclusion
 
-## How can I deploy this project?
+Dr. Bloom aims to make education more **inclusive, accessible, and effective** by focusing on the unique needs of every learner.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+✅ Add **installation/setup steps**
+✅ Make it more **GitHub attractive with badges & images** 👍
