@@ -58,6 +58,3 @@ Key features include:
 
 Dr. Bloom aims to make education more **inclusive, accessible, and effective** by focusing on the unique needs of every learner.
 
-
-✅ Add **installation/setup steps**
-✅ Make it more **GitHub attractive with badges & images** 👍
